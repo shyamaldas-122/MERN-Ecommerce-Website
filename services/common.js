@@ -170,8 +170,8 @@ exports.invoiceTemplate = function(order){
         <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
           <tr>
             <td align="center" valign="top" style="padding: 36px 24px;">
-              <a href="https://sendgrid.com" target="_blank" style="display: inline-block;">
-                <img src="./img/paste-logo-light@2x.png" alt="Logo" border="0" width="48" style="display: block; width: 48px; max-width: 48px; min-width: 48px;">
+              <a href="https://mern-ecommerce-website-theta.vercel.app/login" target="_blank" style="display: inline-block;">
+                <img src="https://cdn-icons-png.flaticon.com/512/6136/6136558.png" alt="Brand Logo" border="0" width="48" style="display: block; width: 48px; max-width: 48px; min-width: 48px;"><h1>EasyShop</h1>
               </a>
             </td>
           </tr>
